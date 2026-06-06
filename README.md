@@ -46,6 +46,6 @@ run -all
 This project was developed as part of an RTL Design and Verification learning journey to strengthen FSM design, SystemVerilog coding, assertions, and functional coverage concepts.
 
 Author
-# Rajitha
-# Aspiring RTL Design / Verification Engineer
+### Rajitha
+### Aspiring RTL Design / Verification Engineer
 
